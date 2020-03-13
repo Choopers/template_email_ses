@@ -1,0 +1,23 @@
+{
+   "event":{
+      "nombreCliente":1,
+      "apellidoPaternoCliente":2,
+      "apellidoMaternoCliente":2,
+      "nombreRecibe":2,
+      "apellidoPaternoRecibe":3,
+      "apellidoMaternoRecibe":3,
+      "numBoleta":3,
+      "listadoProductos":[
+         {
+            "descripcionProducto":4,
+            "cantidad":5,
+            "codigoProducto":6,
+            "fechaDespacho":7
+         }
+      ],
+      "fechaVenta":8,
+      "nombreTienda":9,
+      "calleTienda":10
+   },
+"apellidoPaternoCliente":2 
+}
